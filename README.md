@@ -4,6 +4,9 @@ Um dashboard interativo que exibe os preços e a variação de algumas criptomoe
 
 #### link do projeto : https://devdavidias.github.io/meu-crypto-dashboard/
 
+
+![photo_5150028652970969875_y (1)](https://github.com/user-attachments/assets/0ec4d20d-23d4-46d0-b733-e2f04396ac86)
+
 ## 🔹 Funcionalidades
 
 - Exibe os preços atuais de Bitcoin, Ethereum, Binance Coin, Dogecoin e Solana.
